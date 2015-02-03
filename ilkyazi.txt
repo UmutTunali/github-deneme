@@ -1,0 +1,6 @@
+Merhaba,
+
+Bu Benim ilk git denemem!
+
+Birinci satır
+İkinci satır
